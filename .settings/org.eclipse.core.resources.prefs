@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/changefail.jsp=UTF-8
+encoding//WebContent/changeok.jsp=UTF-8
+encoding//src/com/datang/hrb/dao/StudentDao.java=UTF-8
+encoding//src/com/datang/hrb/dao/UserDao.java=UTF-8
+encoding//src/com/datang/hrb/util/ImgCodeUtil.java=UTF-8
+encoding//src/com/datang/hrb/util/MD5Util.java=UTF-8
+encoding//src/com/datang/hrbu/com/GlobalController.java=UTF-8
